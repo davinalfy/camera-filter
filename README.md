@@ -1,16 +1,9 @@
 # biodata
 
-A new Flutter project.
+Tugas Praktikum Biodata dan Camera-Filter
 
-## Getting Started
+Demo Biodata
+![Demo Biodata](assets/biodata.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Demo Camera-Filter
+![Demo Camera-Filter](assets/camera-filter.gif)
